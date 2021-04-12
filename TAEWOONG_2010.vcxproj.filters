@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{2c3d4c8c-5d1a-459a-a05a-a4e4b608a44e}</UniqueIdentifier>
+      <Extensions>fx;fxh;hlsl</Extensions>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{f297fd6b-59ac-4f2c-8cc9-ef90af67dd06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Manager\GameManager">
+      <UniqueIdentifier>{c364b86a-dbcf-4466-8626-0f69ac16dedc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\ImageManager">
+      <UniqueIdentifier>{4eed52b4-5d38-4574-ad98-c680b99a9a37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\RenderManager">
+      <UniqueIdentifier>{734e96b4-2a92-432f-836d-f210636a4c67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\ImageManager\texture">
+      <UniqueIdentifier>{49144e42-c8db-47b4-8565-aa121530ebf3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TAEWOONG.cpp" />
+    <ClCompile Include="cMain.cpp" />
+    <ClCompile Include="singleton.cpp" />
+    <ClCompile Include="MeshLoader.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="cMeshLoader.cpp" />
+    <ClCompile Include="cMultiTexture.cpp">
+      <Filter>Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="cSceneManager.cpp" />
+    <ClCompile Include="cGameManager.cpp">
+      <Filter>Manager\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cImageManager.cpp">
+      <Filter>Manager\ImageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cRenderManager.cpp">
+      <Filter>Manager\RenderManager</Filter>
+    </ClCompile>
+    <ClCompile Include="cScene.cpp" />
+    <ClCompile Include="cShaderRenderer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="_stdafx.h" />
+    <ClInclude Include="cMain.h" />
+    <ClInclude Include="singleton.h" />
+    <ClInclude Include="MeshLoader.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="cMeshLoader.h" />
+    <ClInclude Include="cMultiTexture.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="cSceneManager.h" />
+    <ClInclude Include="cGameManager.h">
+      <Filter>Manager\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cImageManager.h">
+      <Filter>Manager\ImageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cRenderManager.h">
+      <Filter>Manager\RenderManager</Filter>
+    </ClInclude>
+    <ClInclude Include="cScene.h" />
+    <ClInclude Include="cShaderRenderer.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="TAEWOONG.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+E:\프로그래밍\DirectXSamples\TAEWOONG\Debug\TAEWOONG.exe
+E:\프로그래밍\DirectXSamples\TAEWOONG\Debug\TAEWOONG.pdb

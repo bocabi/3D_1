@@ -1,0 +1,101 @@
+﻿  DXUT.cpp
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(12): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55460): note: 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(13): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55469): note: 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(14): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55478): note: 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(15): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55487): note: 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(16): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55496): note: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(17): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55505): note: 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(18): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55514): note: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(21): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55529): note: 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(22): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55538): note: 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(23): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55547): note: 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(24): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55556): note: 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(25): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55565): note: 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(26): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55574): note: 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(27): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55584): note: 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(28): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55593): note: 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(29): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55603): note: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(30): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55612): note: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(31): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55622): note: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(32): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55631): note: 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(33): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55640): note: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(34): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55650): note: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\dxgitype.h(35): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55659): note: 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55899): note: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(55908): note: 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+c:\users\taewo\desktop\directxsamples\taewoong\dxut\core\dxut.cpp(696): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\taewo\desktop\directxsamples\taewoong\dxut\core\dxut.cpp(697): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\taewo\desktop\directxsamples\taewoong\dxut\core\dxut.cpp(4961): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(387): note: 'GetVersionExW' 선언을 참조하십시오.
+  cGameManager.cpp
+  cImageManager.cpp
+c:\users\taewo\desktop\directxsamples\taewoong\cimagemanager.cpp(48): warning C4458: 'd3dTex' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\taewo\desktop\directxsamples\taewoong\cimagemanager.h(22): note: 'cImageManager::d3dTex' 선언을 참조하십시오.
+c:\users\taewo\desktop\directxsamples\taewoong\cimagemanager.cpp(83): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\taewo\desktop\directxsamples\taewoong\cimagemanager.cpp(88): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\taewo\desktop\directxsamples\taewoong\cimagemanager.cpp(89): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cMain.cpp
+  cMeshLoader.cpp
+c:\users\taewo\desktop\directxsamples\taewoong\cmeshloader.cpp(358): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(2263): note: 'sscanf' 선언을 참조하십시오.
+  cMultiTexture.cpp
+  cRenderManager.cpp
+c:\users\taewo\desktop\directxsamples\taewoong\crendermanager.cpp(42): warning C4189: 'Attribute': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+c:\users\taewo\desktop\directxsamples\taewoong\crendermanager.cpp(146): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cScene.cpp
+  cSceneManager.cpp
+  DXUTenum.cpp
+  DXUTmisc.cpp
+c:\users\taewo\desktop\directxsamples\taewoong\dxut\core\dxutmisc.cpp(1263): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(378): note: 'GetVersionExA' 선언을 참조하십시오.
+  DXUTcamera.cpp
+  DXUTgui.cpp
+c:\users\taewo\desktop\directxsamples\taewoong\dxut\optional\dxutgui.cpp(6846): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\taewo\desktop\directxsamples\taewoong\dxut\optional\dxutgui.h(109): note: 'CDXUTElement::iTexture' 선언을 참조하십시오.
+c:\users\taewo\desktop\directxsamples\taewoong\dxut\optional\dxutgui.cpp(6860): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\taewo\desktop\directxsamples\taewoong\dxut\optional\dxutgui.h(110): note: 'CDXUTElement::iFont' 선언을 참조하십시오.
+c:\users\taewo\desktop\directxsamples\taewoong\dxut\optional\dxutgui.cpp(6860): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\taewo\desktop\directxsamples\taewoong\dxut\optional\dxutgui.h(111): note: 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+  DXUTres.cpp
+  DXUTsettingsdlg.cpp
+  SDKmesh.cpp
+  SDKmisc.cpp
+  MeshLoader.cpp
+c:\users\taewo\desktop\directxsamples\taewoong\meshloader.cpp(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewo\desktop\directxsamples\taewoong\meshloader.cpp(54): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewo\desktop\directxsamples\taewoong\meshloader.cpp(98): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewo\desktop\directxsamples\taewoong\meshloader.cpp(303): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewo\desktop\directxsamples\taewoong\meshloader.cpp(244): warning C4101: 'iTexCoord' :참조되지 않은 지역 변수입니다.
+c:\users\taewo\desktop\directxsamples\taewoong\meshloader.cpp(244): warning C4101: 'iNormal' :참조되지 않은 지역 변수입니다.
+c:\users\taewo\desktop\directxsamples\taewoong\meshloader.cpp(244): warning C4101: 'iPosition' :참조되지 않은 지역 변수입니다.
+c:\users\taewo\desktop\directxsamples\taewoong\meshloader.cpp(484): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  singleton.cpp
+  TAEWOONG.cpp
+  코드를 생성하고 있습니다.
+  All 1916 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  TAEWOONG_2010.vcxproj -> C:\Users\taewo\Desktop\DirectXSamples\TAEWOONG\Release\TAEWOONG.exe
